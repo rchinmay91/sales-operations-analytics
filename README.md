@@ -29,7 +29,7 @@ Design and implement an automated, robust BI pipeline connecting a **MySQL relat
 | Layer | Tool / Technology | Role & Key Responsibilities |
 | :--- | :--- | :--- |
 | **Database** | **MySQL Workbench / SQL** | Schema creation, primary/foreign key relations, exploratory data queries. |
-| **ETL & Prep** | **Power Query (M Language)** | Data cleaning, filtering zero/invalid amounts, currency normalization (USD $ightarrow$ INR). |
+| **ETL & Prep** | **Power Query (M Language)** | Data cleaning, filtering zero/invalid amounts, currency normalization (USD → INR).  |
 | **Modeling** | **Power BI Desktop** | Star schema architecture, cardinality configuration, single-direction relationships. |
 | **Analytics** | **DAX (Data Analysis Expressions)** | Custom KPIs, dynamic aggregations, Time Intelligence (YoY Growth). |
 | **Visualization** | **Power BI Visuals & UI** | Executive cards, interactive charts, matrix drill-downs, dynamic slicers. |
